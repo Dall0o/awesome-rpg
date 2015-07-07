@@ -1,19 +1,17 @@
-
-
 # awesome-rpg
 
 ## Generator
 
 ### Polyvalent
 
-- [donjon; RPG Tools](http://donjon.bin.sh/) - Online
+- [donjon; RPG Tools](http://donjon.bin.sh/)
 - [donjon; Download Apps](http://donjon.bin.sh/apps/) - Offline
-- [Seventh Sanctum](http://www.seventhsanctum.com/) - Online
+- [Seventh Sanctum](http://www.seventhsanctum.com/)
 
 ### Dice
 
-- [AnyDice](http://www.anydice.com/) - Online
-- [Online Die Roller](http://www.brockjones.com/dieroller/dice.htm) - Online
+- [AnyDice](http://www.anydice.com/)
+- [Online Die Roller](http://www.brockjones.com/dieroller/dice.htm)
 
 ### Character
 
