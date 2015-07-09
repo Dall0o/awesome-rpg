@@ -27,6 +27,10 @@
 - [Polygon Map Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/demo.html)
 - [world_and_map_generation - /r/DnD](https://www.reddit.com/r/DnD/wiki/world_and_map_generation)- Online/Offline
 
+### Carousing
+
+- [RP Carousing Simulator](http://carousing.neocities.org/)
+
 ## Editor
 
 ### Map
