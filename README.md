@@ -21,6 +21,10 @@
 
 - [character_generation - /r/DnD](https://www.reddit.com/r/DnD/wiki/character_generation) - Online/Offline
 
+#### Identity
+
+- [Fake Identity Generator](http://justdelete.me/fake-identity-generator/)
+
 ### Map
 
 - [Map creator](http://fantasynamegenerators.com/map-creator.php#.VZvSgPlVhBc)
