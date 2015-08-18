@@ -35,6 +35,10 @@
 
 - [RP Carousing Simulator](http://carousing.neocities.org/)
 
+### Weapon
+- [Magic Weapon Creator](http://grpg.wikidot.com/tool:magic-weapon-creator)
+- [MW Tools Magic Weapon Generator](http://mwtools.thyle.net/weapon_gen.html)
+
 ## Editor
 
 ### Map
