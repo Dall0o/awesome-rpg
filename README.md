@@ -12,7 +12,7 @@
 - [donjon; Download Apps](http://donjon.bin.sh/apps/) - Offline
 - [Seventh Sanctum](http://www.seventhsanctum.com/)
 
-### Dice
+### Roll
 
 - [AnyDice](http://www.anydice.com/)
 - [Online Die Roller](http://www.brockjones.com/dieroller/dice.htm)
